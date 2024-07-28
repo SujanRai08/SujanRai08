@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujanRai08
 
--
+
 I am passionate about transforming raw data into valuable insights that drive decision-making. Currently, I am learning data science through YouTube and am dedicated to becoming a proficient data scientist and machine learning expert. My journey into data science has equipped me with a solid understanding of various algorithms and their real-world applications.
 
 I have completed multiple projects using Kaggle datasets, where I applied machine learning techniques to solve complex problems. I am particularly skilled in data preparation, model building, and evaluation. I also have experience with Python and TensorFlow, which I use to develop and optimize machine learning models.
