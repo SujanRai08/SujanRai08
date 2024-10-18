@@ -38,7 +38,7 @@
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <h2 align="center"> Python | Java |Javascripts | c#</h2>
+  <h2 align="center"> Python    |   java    |   Javascripts    |   c#    </h2>
 </p>
 
 ---
