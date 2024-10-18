@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujanRai08&theme=dark" alt="SujanRai08" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="your-github-username" />
 </p>
 
 ---
@@ -38,7 +38,8 @@
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="your-github-username" />
+  <h2 align="center"> Python | Java |Javascripts | c#</h2>
 </p>
 
 ---
