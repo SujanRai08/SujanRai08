@@ -2,6 +2,9 @@
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | Full Stack Developer</h3>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=0e75b6&style=flat" alt="your-github-username" />
+</p>
 
 
 
