@@ -26,11 +26,11 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SujanRai08&show_icons=true&theme=radical" alt="your-github-username" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="your-github-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujanRai08&theme=dark" alt="SujanRai08" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/Python/Java/Javascripts?username=SujanRai0&layout=compact&theme=radical" alt="your-github-username" />
 </p>
 
 ---
