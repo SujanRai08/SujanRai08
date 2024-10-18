@@ -38,8 +38,7 @@
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="your-github-username" />
-  <h2 align="center"> Python | Java |Javascripts | c#</h2>
+  <h2> Python | Java |Javascripts | c#</h2>
 </p>
 
 ---
