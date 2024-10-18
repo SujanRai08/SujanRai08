@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Sujan Rai 👋</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | Full Stack Developer</h3>
 
 ---
@@ -12,9 +12,9 @@
 - 🌱 I’m currently learning **Deep Learning** and improving my **Data Science** skills.
 - 👨‍💻 I’m working on **Full Stack Web Applications** using **Django**, **React**, and **JavaScript**.
 - 💡 I love contributing to **Open Source Projects** and collaborating on **Machine Learning** projects.
-- 🔭 I’m working on exciting projects like **Nepal Transport Tracker** and **AI Plant Disease Detector (PlantGuardian)**.
+- 🔭 I’m working on exciting projects like **AI Plant Disease Detector (PlantGuardian)**.
 - 🎯 2024 Goals: **Become internship-ready for Data Science, Machine Learning, and Web Development roles**.
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **sujan08rai@gmail.com**
 
 ---
 
@@ -23,9 +23,7 @@
 - **Languages:** Python | Java | JavaScript | C#
 - **Web Development:** Django | React | HTML | CSS | Flask
 - **Data Science:** NumPy | Pandas | scikit-learn | TensorFlow | Matplotlib | Keras
-- **Databases:** MySQL | MongoDB | PostgreSQL
-- **DevOps:** Git | Docker | GitHub Actions | Linux
-- **Cloud:** AWS | Azure
+- **Databases:** MySQL 
 - **Other Tools:** Postman | Jupyter Notebooks | Visual Studio Code
 
 ---
@@ -52,10 +50,8 @@
 
 ### 💻 Projects
 
-- **[Nepal Transport Tracker](#)** - A real-time transport tracking system for Nepal.
 - **[DeviceGuard Pro](#)** - An app that verifies second-hand devices' authenticity.
-- **[PlantGuardian](#)** - An AI-powered plant disease detector for farmers.
-- **[Lift Project](#)** - A C# Windows Forms project simulating elevator operations.
+
 
 ---
 
