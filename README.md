@@ -38,7 +38,7 @@
 ### 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/Python/Java/Javascripts?username=SujanRai0&layout=compact&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical" alt="your-github-username" />
 </p>
 
 ---
