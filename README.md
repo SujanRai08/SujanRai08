@@ -46,7 +46,6 @@ Here are a few projects that showcase my skills and interests:
 Feel free to connect with me through:
 
 - GitHub: [sujan98021](https://github.com/sujan98021)
-- LinkedIn: [Your LinkedIn Profile](#) 
 - Email: [sujan08rai@gmail.com](mailto:sujan08rai@gmail.com)
 
 ## 🤝 Let's Connect!
