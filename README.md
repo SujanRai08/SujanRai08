@@ -5,7 +5,7 @@ I'm a second-year Computer Science student with a passion for Data Science and W
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, JavaScript, C#
-- **Web Development:** Django, React
+- **Web Development:** Django
 - **Data Science:** NumPy, Pandas, scikit-learn
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, SQLite
@@ -20,15 +20,13 @@ I'm a second-year Computer Science student with a passion for Data Science and W
 
 Here are a few of my notable projects:
 
-- [Nepal Transport Tracker](link-to-your-project): An app for tracking transportation in Nepal.
-- [DeviceGuard Pro](link-to-your-project): A tool for checking the condition of second-hand devices.
-- [PlantGuardian](link-to-your-project): An AI Plant Disease Detector to help gardeners and farmers.
+- [House Price Prediction](https://github.com/SujanRai08/House_pricingPrediction.git): An house price prediction was created using machine learnign algorithms.
+
 
 ## 📫 How to reach me
 
 - GitHub: [sujan98021](https://github.com/sujan98021)
-- LinkedIn: [Your LinkedIn Profile](link-to-your-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:sujan08rai@gmail.com)
 
 ## 🤝 Let's connect!
 
