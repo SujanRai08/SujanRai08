@@ -20,9 +20,7 @@ I'm a second-year Computer Science student with a passion for Data Science and W
 
 Here are a few of my notable projects:
 
-- [Nepal Transport Tracker](link-to-your-project): An app for tracking transportation in Nepal.
-- [DeviceGuard Pro](link-to-your-project): A tool for checking the condition of second-hand devices.
-- [PlantGuardian](link-to-your-project): An AI Plant Disease Detector to help gardeners and farmers.
+
 
 ## 📫 How to reach me
 
