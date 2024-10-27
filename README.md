@@ -25,7 +25,7 @@ Here are a few of my notable projects:
 
 ## 📫 How to reach me
 
-- GitHub: [sujan98021](https://github.com/sujan98021)
+- GitHub: [sujanRai08](https://github.com/SujanRai08)
 - LinkedIn: [Your LinkedIn Profile]()
 - Email: [your-email@example.com](mailto:sujan08rai@gmail.com)
 
