@@ -1,10 +1,9 @@
 
 # Hi there, I'm Sujan! 👋
 
-I'm human ready to save world by converting raw data into meaningful insights👨🏾‍💻. Currently, I am focusing on mastering the Python Django framework while working towards becoming a Machine Learning/Data Scientist.
+I'm human ready to save world by converting raw data into meaningful insights👨🏾‍💻. Primilarly, I am focusing on mastering the Python Django framework. Also, learning mathematics,Data science to becoming a Machine Learning/Data Scientist.
 
 ## 🔧 Technologies & Tools
-
 - **Languages:** Python, Java, JavaScript, C#
 - **Web Development:** Django
 - **Data Science:** NumPy, Pandas, scikit-learn
