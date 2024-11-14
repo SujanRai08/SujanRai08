@@ -26,7 +26,8 @@ Here are a few of my notable projects:
 ## 📫 How to reach me
 
 - GitHub: [sujanRai08](https://github.com/SujanRai08)
-- Email: [sujan08@gmail.com](mailto:sujan08rai@gmail.com)
+- Email: [sujan08@raigmail.com](mailto:sujan08rai@gmail.com)
+- 
 
 ## 🤝 Let's connect!
 
