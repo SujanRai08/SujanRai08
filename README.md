@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sujan! 👋
 
-I'm a second-year Computer Science student with a passion for Data Science and Web Development. Currently, I am focusing on mastering the Python Django framework while working towards becoming a Machine Learning/Data Scientist.
+I'm human ready to save world by converting raw data into meaningful insights👨🏾‍💻. Currently, I am focusing on mastering the Python Django framework while working towards becoming a Machine Learning/Data Scientist.
 
 ## 🔧 Technologies & Tools
 
