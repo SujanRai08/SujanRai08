@@ -8,7 +8,7 @@ I'm human ready to save world by converting raw data into meaningful insights�
 - **Web Development:** Django
 - **Data Science:** NumPy, Pandas, scikit-learn
 - **Version Control:** Git, GitHub
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL, Postgres 
 
 ## 🌱 I’m currently learning
 
