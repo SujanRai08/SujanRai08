@@ -8,7 +8,7 @@ I'm a passionate data enthusiast ready to transform raw data into meaningful ins
 - **Data Science:** NumPy, Pandas, scikit-learn, hadoop, apache
 - cloud - AWS, Airflow, Docker
 - **Version Control:** Git, GitHub
-- **Databases:** MySQL, Postgres 
+- **Databases:** MySQL, Postgres, MongoDB
 
 ## 🌱 I’m currently learning
 
