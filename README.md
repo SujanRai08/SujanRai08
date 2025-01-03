@@ -1,32 +1,25 @@
 
 # Hi there, I'm Sujan! 👋
 
-I'm human ready to save world by converting raw data into meaningful insights👨🏾‍💻. Primilarly, I am focusing on mastering the Python Django framework. Also, learning mathematics,Data science to becoming a Machine Learning/Data Scientist.
+I'm a passionate data enthusiast ready to transform raw data into meaningful insights. Currently, I'm focusing on mastering advanced Python, PostgreSQL, and data engineering concepts to build efficient and scalable data pipelines. My ultimate goal is to become a self-made data engineer, bridging the gap between raw data and actionable analytics.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Java, JavaScript, C#
-- **Web Development:** Django
-- **Data Science:** NumPy, Pandas, scikit-learn
+- **Languages:** Python, Java
+- **Data Science:** NumPy, Pandas, scikit-learn, hadoop, apache
+- cloud - AWS, Airflow, Docker
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, Postgres 
 
 ## 🌱 I’m currently learning
 
-- Python Django framework
+- Advance Python
 - Data Structures and Algorithms (DSA)
-- Machine Learning concepts and techniques
-
-## 💼 Projects
-
-Here are a few of my notable projects:
-- [House Pricing predicition](https://github.com/SujanRai08/House_pricingPrediction.git): An house price predicition was created using machine learnign algorithms.
-
+- SQL, ETL, Big Data
 
 ## 📫 How to reach me
 
 - GitHub: [sujanRai08](https://github.com/SujanRai08)
 - Email: [sujan08@raigmail.com](mailto:sujan08rai@gmail.com)
-- 
 
 ## 🤝 Let's connect!
 
