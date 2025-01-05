@@ -16,6 +16,8 @@ I'm a passionate data enthusiast ready to transform raw data into meaningful ins
 - Data Structures and Algorithms (DSA)
 - SQL, ETL, Big Data
 
+##  💡 Projects
+- Currently working on cleaning cleaning with real world Datasets [Olympics practing see -](https://github.com/SujanRai08/Data_cleaning_Olympics)
 
 ## 📫 How to reach me
 
