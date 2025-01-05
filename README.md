@@ -37,15 +37,8 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 - **Email:** [sujan08@raigmail.com](mailto:sujan08rai@gmail.com)
 
 ## 🤝 Let's connect!
-I'm always open to collaborating on interesting projects or learning new things. Feel free to reach out! 
-
----
-
-### 🌟 Fun Fact:
-- I love solving **complex problems** and **optimizing solutions**—be it with data or algorithms. 
-
----
+I'm always open to collaborating on interesting projects or learning new things. Feel free to reach out!
 
 ### 🚀 Current Focus:
-- Transforming my **data science** skills into **data engineering** expertise.
+- Strong Foundation with **data engineering**.
 
