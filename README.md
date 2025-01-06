@@ -1,7 +1,7 @@
 # Hi there, I'm Sujan! 👋
 
 ##  💡 Projects
-- Currently working on cleaning cleaning with real world Datasets [Olympics practing see -](https://github.com/SujanRai08/Data_cleaning_Olympics)
+- Currently working on cleaning with real world Datasets [Olympics practing see -](https://github.com/SujanRai08/Data_cleaning_Olympics)
 
 ## 📫 How to reach me
 
