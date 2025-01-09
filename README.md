@@ -1,5 +1,5 @@
 # Hi there, I'm Sujan! 👋
-### **Data Engineer** 💻
+
 
 I'm a passionate **data enthusiast** eager to transform raw data into meaningful insights. Currently, I'm focusing on mastering **advanced Python**, **PostgreSQL**, and **data engineering** concepts to build **efficient and scalable data pipelines**. My goal is to bridge the gap between raw data and actionable analytics, becoming a **self-made data engineer**.
 
