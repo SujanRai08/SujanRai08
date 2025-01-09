@@ -1,6 +1,5 @@
 # Hi there, I'm Sujan! 👋
 
-
 I'm a passionate **data enthusiast** eager to transform raw data into meaningful insights. Currently, I'm focusing on mastering **advanced Python**, **PostgreSQL**, and **data engineering** concepts to build **efficient and scalable data pipelines**. My goal is to bridge the gap between raw data and actionable analytics, becoming a **self-made data engineer**.
 
 ## 🛠️ Technologies & Tools
@@ -24,10 +23,7 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 
 ## 💡 Projects
 - **[Olympics Data Cleaning](https://github.com/SujanRai08/Data_cleaning_Olympics)**: Currently working on cleaning real-world datasets, focusing on Olympic athlete data.
-- **[Data Engineering Pipeline](https://github.com/SujanRai08/your_project)**: Building a scalable data pipeline for processing large datasets.
-
-### 📈 GitHub Stats:
-![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujanRai08&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+- **[ETL Pipeline for Sales Data Analytics]([https://github.com/SujanRai08/Amazon_sales_etl_pipeline_analytics])**: Building a scalable data pipeline for processing amazon sales analytics using postgres.
 
 ### 🎯 My Learning Journey:
 ![Learning Path](https://raw.githubusercontent.com/SujanRai08/learning-path-graphic/main/path-to-data-engineering.png)
