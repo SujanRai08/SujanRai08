@@ -19,7 +19,7 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 - **Advanced Python**
 - **Data Structures and Algorithms (DSA)**
 - **SQL, ETL, Big Data**
-- **Cloud technologies** (AWS, Google Cloud)
+- **Cloud technologies** (Azure, AWS, Google Cloud)
 
 ## 💡 Projects
 - **[Olympics Data Cleaning](https://github.com/SujanRai08/Data_cleaning_Olympics)**: Currently working on cleaning real-world datasets, focusing on Olympic athlete data.
