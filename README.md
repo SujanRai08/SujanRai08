@@ -25,8 +25,6 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 - **[Olympics Data Cleaning](https://github.com/SujanRai08/Data_cleaning_Olympics)**: Currently working on cleaning real-world datasets, focusing on Olympic athlete data.
 - **[ETL Pipeline for Sales Data Analytics]([https://github.com/SujanRai08/Amazon_sales_etl_pipeline_analytics])**: Building a scalable data pipeline for processing amazon sales analytics using postgres.
 
-### 🎯 My Learning Journey:
-![Learning Path](https://raw.githubusercontent.com/SujanRai08/learning-path-graphic/main/path-to-data-engineering.png)
 
 ## 📫 How to reach me
 - **GitHub:** [sujanRai08](https://github.com/SujanRai08)
