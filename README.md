@@ -16,10 +16,10 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🌱 I’m currently learning
-- **Data science Python**
-- **Go**
-- **will be learning  big data query**
-- ** will be learning Cloud technologies** (Azure, AWS, Google Cloud)
+- *Data science Python*
+- *Go*
+- *will be learning big data query*
+- *will be learning Cloud technologies (Azure, AWS, Google Cloud)*
 
 ## 💡 Projects
 - **[Olympics Data Cleaning](https://github.com/SujanRai08/Data_cleaning_Olympics)**: Currently working on cleaning real-world datasets, focusing on Olympic athlete data.
@@ -34,5 +34,5 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 I'm always open to collaborating on interesting projects or learning new things. Feel free to reach out!
 
 ### 🚀 Current Focus:
-- Strong Foundation with **Data Engineering with high Rest APIs **.
+- Strong Foundation with *Data Engineering with high Rest APIs*.
 
