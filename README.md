@@ -4,7 +4,7 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3.9-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![Java](https://img.shields.io/badge/Golang-go1.23.5-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Go](https://img.shields.io/badge/Golang-go1.23.5-007396?style=for-the-badge&logo=Go&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
