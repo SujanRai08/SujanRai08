@@ -18,11 +18,11 @@ DataCamp Profile learning about various concept with data engineering - [Sujan R
 
 - **Languages:** Python, SQL, Golang (learning)
 - **Data Science & Machine Learning:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
-- **Big Data & ETL: ** PySpark (learning), Apache Airflow (learning)
+- **Big Data & ETL:** PySpark (learning), Apache Airflow (learning)
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
-- **Data Warehousing: ** : Snowflake (learning)
-- **Cloud & DevOps (Learning): ** Docker
+- **Data Warehousing:** : Snowflake (learning)
+- **Cloud & DevOps (Learning):** Docker, GCP (Basic)
   
 ## 🌱 I’m currently learning
 - Advanced Python for Data Science
