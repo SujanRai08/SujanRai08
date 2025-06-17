@@ -5,14 +5,16 @@ I'm a passionate **data enthusiast** eager to transform raw data into meaningful
 DataCamp Profile learning about various concept with data engineering - [Sujan Rai](https://www.datacamp.com/portfolio/sujan08rai)
 
 ## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-Data%20Processing-F16C20?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Apache Airflow](https://img.shields.io/badge/Airflow-2.7.1-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Data%20Processing-F16C20?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-2.7.1-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Big%20Data-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud%20Learning-%23F1C40F?style=for-the-badge&logo=cloud&logoColor=white)
+
 
 - **Languages:** Python, SQL, Golang (learning)
 - **Data Science & Machine Learning:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
