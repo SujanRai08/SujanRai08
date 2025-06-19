@@ -1,13 +1,14 @@
 # Hi there, I'm Sujan! 👋
 
-I'm a passionate **data enthusiast** eager to transform raw data into meaningful insights. Currently, I'm focusing on learning **Python for data engineering**, **PostgreSQL**,**Analytical  engineering**, **data engineering**, **Airflow**,**Big-DATA pySpark**, **Snowflake** concepts to build **efficient and scalable data pipelines**. My goal is to bridge the gap between raw data and actionable analytics, becoming a **self-made data engineer**.
+I'm a passionate **data enthusiast** eager to transform raw data into meaningful insights. Currently, I'm focusing on learning **Python for data engineering**, **PostgreSQL**, **Java**, **Analytical  engineering**, **data engineering**, **Airflow**,**Big-DATA pySpark**, **Snowflake** concepts to build **efficient and scalable data pipelines**. My goal is to bridge the gap between raw data and actionable analytics, becoming a **self-made data engineer**.
 
 DataCamp Profile learning about various concept with data engineering - [Sujan Rai](https://www.datacamp.com/portfolio/sujan08rai)
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-Data%20Processing-F16C20?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-2.7.1-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -16,7 +17,7 @@ DataCamp Profile learning about various concept with data engineering - [Sujan R
 ![Cloud](https://img.shields.io/badge/Cloud%20Learning-%23F1C40F?style=for-the-badge&logo=cloud&logoColor=white)
 
 
-- **Languages:** Python, SQL, Golang (learning)
+- **Languages:** SQL, Python, Java
 - **Data Science & Machine Learning:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
 - **Big Data & ETL:** PySpark (learning), Apache Airflow (learning)
 - **Databases:** MySQL, PostgreSQL
